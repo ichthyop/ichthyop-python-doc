@@ -1,0 +1,4 @@
+_build
+generated
+_static/temp*png
+_static/map*png
